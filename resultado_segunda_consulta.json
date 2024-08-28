@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "firstName": "Ned",
+  "lastName": "Stark",
+  "fullName": "Ned Stark",
+  "title": "Lord of Winterfell",
+  "family": "House Stark",
+  "image": "ned-stark.jpg",
+  "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+}
